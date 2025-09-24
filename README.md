@@ -64,10 +64,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OBJLAKO&show_icons=true&theme=onedark" alt="OBJLAKO's GitHub Stats" width="500">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBJLAKO&layout=compact&theme=onedark" alt="Top Languages" width="300">
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=OBJLAKO&show_icons=true&theme=onedark" alt="OBJLAKO's GitHub Stats" width="500">
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBJLAKO&layout=compact&theme=onedark" alt="Top Languages" width="300">
+      </td>
+    </tr>
+  </table>
+</div>
