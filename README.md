@@ -8,7 +8,7 @@
 ## 🎨 Coding with Anime Vibes
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZuY3Nld2E1ODZqOHl3azF1N3JpNGJocTV1ejRvd2w2NzZtNG0yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14hqnhZrxCWAEg/giphy.gif" alt="Anime Dev" width="600">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZuY3Nld2E1ODZqOHl3azF1N3JpNGJocTV1ejRvd2w2NzZtNG0yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14hqnhZrxCWAEg/giphy.gif" alt="Anime Dev" width="400">
 </p>
 
 <p align="center">--- 🚀 ---</p>
