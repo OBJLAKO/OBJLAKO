@@ -7,9 +7,18 @@
 
 ## 🎨 Coding with Anime Vibes
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZuY3Nld2E1ODZqOHl3azF1N3JpNGJocTV1ejRvd2w2NzZtNG0yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14hqnhZrxCWAEg/giphy.gif" alt="Anime Dev" width="400">
-</p>
+<div align="center">
+  <table border="10" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZuY3Nld2E1ODZqOHl3azF1N3JpNGJocTV1ejRvd2w2NzZtNG0yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14hqnhZrxCWAEg/giphy.gif" alt="Anime Dev" width="600">
+      </td>
+      <td align="center">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3176venc4x2ghqurztinzrvnvkjq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">--- 🚀 ---</p>
 
