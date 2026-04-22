@@ -30,14 +30,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OBJLAKO&theme=default&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=1f2328" />
-</p>
-
----
-
 ### 🧩 LeetCode
 
 <p align="center">
