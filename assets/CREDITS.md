@@ -1,0 +1,1 @@
+Technology icons: Devicon (https://github.com/devicons/devicon), MIT license in icons/LICENSE. Product names and logos belong to their respective owners. All profile layout and illustrations are original SVG assets. activity.svg contains an explicitly dated GitHub API snapshot; it is not a live counter.

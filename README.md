@@ -1,45 +1,39 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="OBJLAKO — Backend engineering. Linux curiosity. A little atmosphere." />
+  <img src="assets/hero.svg" width="100%" alt="OBJLAKO — Backend engineer. C# and .NET backend development. Animated cloud and terminal." />
 </p>
 
 <p align="center">
-  <a href="#engineering">Engineering</a> · <a href="#milestones">Milestones</a> · <a href="https://github.com/OBJLAKO?tab=repositories">All repositories ↗</a>
+  I work on backend services and enterprise integrations with <strong>C# and .NET</strong>.<br />
+  Outside of work, I experiment with Linux and build small tools.
+</p>
+
+<p align="center">
+  <a href="#engineering">Engineering</a> &nbsp; / &nbsp;
+  <a href="#milestones">Milestones</a> &nbsp; / &nbsp;
+  <a href="https://github.com/OBJLAKO?tab=repositories">Explore GitHub ↗</a>
 </p>
 
 <br />
 
-I’m a **backend engineer focused on C# and .NET**, with interests in distributed systems, enterprise integrations and Linux. I enjoy understanding how things work — from backend services to the Linux desktop — and making everyday tools feel more personal.
+<a id="engineering"></a>
+<img src="assets/toolkit.svg" width="100%" alt="Engineering toolkit: C#, .NET, PostgreSQL, RabbitMQ, Docker, Kubernetes, Linux, Go, Java, MongoDB and Oracle. Clean Architecture, distributed systems, DDD and CQRS." />
 
-## Engineering
+<br />
+<br />
 
-**Primary focus** &nbsp; C# · .NET · backend services · enterprise integrations
+<a id="milestones"></a>
+<img src="assets/milestones.svg" width="100%" alt="2025: Best Young Specialist at MMK-Informservice for PunchOut integration; second place at the international stage of the XXV Scientific-Technical Conference of Young Specialists." />
 
-| Data & messaging | Infrastructure | Architecture |
-| :--- | :--- | :--- |
-| PostgreSQL · MongoDB · Oracle | Docker · Kubernetes | Clean Architecture · DDD |
-| RabbitMQ | Linux | Microservices · CQRS |
+<br />
+<br />
 
-**Also in my toolbox** &nbsp; Java · Go
+<a href="https://github.com/OBJLAKO?tab=overview"><img src="assets/activity.svg" width="100%" alt="GitHub contribution calendar snapshot, September 24, 2026: 36 contributions. Open GitHub for current activity." /></a>
 
-## Milestones
+<br />
+<br />
 
-**2025 — Best Young Specialist · MMK-Informservice**<br />
-PunchOut protocol integration into corporate procurement.
-
-**2025 — 2nd place · International stage**<br />
-XXV Scientific-Technical Conference of Young Specialists.<br />
-*PunchOut Integration for Automated B2B Procurement.*
+<a href="https://leetcode.com/OBJLAKO/"><img src="assets/leetcode.svg" width="100%" alt="Algorithm practice. Open OBJLAKO on LeetCode." /></a>
 
 <br />
 
-<details>
-  <summary><strong>Off the main thread — algorithm practice</strong></summary>
-  <br />
-  <a href="https://leetcode.com/OBJLAKO/">LeetCode profile ↗</a> · <a href="https://github.com/OBJLAKO/leetCode">Solutions repository ↗</a>
-</details>
-
-<br />
-
----
-
-<p align="center"><sub>OBJLAKO · Backend systems, open-source experiments & a calmer desktop.</sub></p>
+<p align="center"><sub>OBJLAKO · C# / .NET · Linux</sub></p>
