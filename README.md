@@ -1,39 +1,42 @@
+<h1 align="center">☁️ OBJLAKO</h1>
+<p align="center"><strong>Backend engineer · C# / .NET</strong></p>
+
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="OBJLAKO — Backend engineer. C# and .NET backend development. Animated cloud and terminal." />
+  I build backend services and enterprise integrations.<br />
+  Outside of work: Linux experiments and small tools.
 </p>
 
 <p align="center">
-  I work on backend services and enterprise integrations with <strong>C# and .NET</strong>.<br />
-  Outside of work, I experiment with Linux and build small tools.
+  <a href="https://github.com/OBJLAKO?tab=repositories">Repositories ↗</a> &nbsp; · &nbsp;
+  <a href="https://leetcode.com/OBJLAKO/">LeetCode ↗</a>
 </p>
 
-<p align="center">
-  <a href="#engineering">Engineering</a> &nbsp; / &nbsp;
-  <a href="#milestones">Milestones</a> &nbsp; / &nbsp;
-  <a href="https://github.com/OBJLAKO?tab=repositories">Explore GitHub ↗</a>
-</p>
+## Engineering
 
-<br />
+| | Technologies |
+| :--- | :--- |
+| **Core** | <img src="assets/icons/csharp.svg" width="28" height="28" alt="" /> C# &nbsp; <img src="assets/icons/dotnetcore.svg" width="28" height="28" alt="" /> .NET |
+| **Data & messaging** | <img src="assets/icons/postgresql.svg" width="28" height="28" alt="" /> PostgreSQL &nbsp; <img src="assets/icons/oracle.svg" width="28" height="28" alt="" /> Oracle &nbsp; <img src="assets/icons/mongodb.svg" width="28" height="28" alt="" /> MongoDB &nbsp; <img src="assets/icons/rabbitmq.svg" width="28" height="28" alt="" /> RabbitMQ |
+| **Infrastructure** | <img src="assets/icons/docker.svg" width="28" height="28" alt="" /> Docker &nbsp; <img src="assets/icons/kubernetes.svg" width="28" height="28" alt="" /> Kubernetes &nbsp; <img src="assets/icons/linux.svg" width="28" height="28" alt="" /> Linux |
+| **Also in my toolkit** | <img src="assets/icons/go.svg" width="28" height="28" alt="" /> Go &nbsp; <img src="assets/icons/java.svg" width="28" height="28" alt="" /> Java |
 
-<a id="engineering"></a>
-<img src="assets/toolkit.svg" width="100%" alt="Engineering toolkit: C#, .NET, PostgreSQL, RabbitMQ, Docker, Kubernetes, Linux, Go, Java, MongoDB and Oracle. Clean Architecture, distributed systems, DDD and CQRS." />
+`Clean Architecture` &nbsp; `DDD` &nbsp; `CQRS` &nbsp; `Distributed systems`
 
-<br />
-<br />
+## Milestones
 
-<a id="milestones"></a>
-<img src="assets/milestones.svg" width="100%" alt="2025: Best Young Specialist at MMK-Informservice for PunchOut integration; second place at the international stage of the XXV Scientific-Technical Conference of Young Specialists." />
+**2025 · Best Young Specialist**<br />
+MMK-Informservice — PunchOut integration into corporate procurement.
 
-<br />
-<br />
+**2025 · 2nd place, international stage**<br />
+XXV Scientific-Technical Conference of Young Specialists.<br />
+PunchOut integration for automated B2B procurement.
 
-<a href="https://github.com/OBJLAKO?tab=overview"><img src="assets/activity.svg" width="100%" alt="GitHub contribution calendar snapshot, September 24, 2026: 36 contributions. Open GitHub for current activity." /></a>
+## Contribution trail
 
-<br />
-<br />
-
-<a href="https://leetcode.com/OBJLAKO/"><img src="assets/leetcode.svg" width="100%" alt="Algorithm practice. Open OBJLAKO on LeetCode." /></a>
-
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OBJLAKO/OBJLAKO/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OBJLAKO/OBJLAKO/output/github-snake.svg" />
+  <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/OBJLAKO/OBJLAKO/output/github-snake.svg" width="100%" />
+</picture>
 
 <p align="center"><sub>OBJLAKO · C# / .NET · Linux</sub></p>
